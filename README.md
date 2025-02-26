@@ -23,29 +23,6 @@ The aim of this study is to analyze and compare **LSTM and GRU** models for time
   - NumPy & pandas (for data manipulation)
   - Matplotlib (for visualization)
 
-## Installation & Usage
-### Prerequisites
-Ensure you have Python installed (preferably **Python 3.8+**). You can install required dependencies using:
-```bash
-pip install tensorflow numpy pandas scikit-learn matplotlib
-```
-
-### Running the Model
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/dst-index-prediction.git
-   cd dst-index-prediction
-   ```
-2. Prepare the dataset (ensure the Dst index data is available in the expected format).
-3. Run the training script:
-   ```bash
-   python train.py
-   ```
-4. Evaluate the model performance using:
-   ```bash
-   python evaluate.py
-   ```
-
 ## Contribution
 Feel free to contribute by submitting issues, feature requests, or pull requests!
 
